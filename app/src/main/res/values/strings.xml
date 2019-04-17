@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeAutomation</string>
+    <string name="action_settings">Settings</string>
+    <string name="light_1">Light 1</string>
+    <string name="auto_on">AutoMode ON</string>
+    <string name="auto_off">AutoMode_OFF</string>
+    <string name="automode">AutoMode</string>
+    <string name="fan">Fan</string>
+    <string name="logo">Logo</string>
+    <string name="splash_text">Home Automation</string>
+</resources>
